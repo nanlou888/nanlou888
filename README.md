@@ -6,7 +6,7 @@
   - I’m currently deepening my knowledge of SQL and aiming to improve my proficiency in this language.
   - I am also studying theories of prompt engineering and hope to leverage generative AI models like ChatGPT more efficiently in my school work and at the workplace.
 - 💞️ **Collaboration**: I’m looking to collaborate on projects that combine data science with finance, sociology, and various real-world contexts.
-- 📫 **Contact**: Feel free to reach out to me via email at [harrison.n.lou@gmail.com(mailto:harrison.n.lou@gmail.com)].
+- 📫 **Contact**: Feel free to reach out to me via email at [harrison.n.lou@gmail.com].
 - 😄 **Pronouns**: He/Him
 - ⚡ **Fun Fact**: In my spare time, I like creating manga works myself, but tbh it's quite challenging for an amateur.
 <!---
