@@ -2,9 +2,6 @@
 
 - 👀 **Interests**: I’m interested in Data Science, AI, LLM, history, sociology, and ACG.
 - 🌱 **Current Pursuits**: I’m currently pursuing my Master's degree in Management Analytics at University of Toronto.
-- 📑 **Current Learning**: 
-  - I’m currently deepening my knowledge of Machine Learning.
-  - I am also studying theories of prompt engineering and hope to leverage generative AI models like ChatGPT more efficiently in my school work and at the workplace.
 - 💞️ **Collaboration**: I’m looking to collaborate on projects that combine data science with finance, politics, sociology, and various real-world contexts.
 - 📫 **Contact**: Feel free to reach out to me via email at [harrison.n.lou@gmail.com].
 - 😄 **Pronouns**: He/Him
